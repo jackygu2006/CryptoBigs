@@ -1,0 +1,92 @@
+@font-face {
+	font-family: Dogicapixel;
+	src: url('./fonts/dogicapixel.ttf');
+}
+body {
+	background-color: black;
+	color: green;
+	font-size: 18px;
+	font-family: monospace, Dogicapixel;
+	line-height: 1.5;
+	padding: 20px;
+}
+.header-bar {
+	width: 100%;
+	text-align: center;
+}
+.content {
+	height: 480px;
+	font-size: 18px;
+	/* text-align: center; */
+	/* background-color: aqua; */
+	margin-left: 80px;
+	margin-right: 80px;
+}
+.logo {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	margin-bottom: 6px;
+}
+.sub-title {
+	margin-bottom: 20px;
+	font-size: 16px;
+}
+.social {
+	width: 100%;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.social-logo {
+	margin-right: 10px;
+}
+.links {
+	margin-left: 80px;
+	margin-right: 80px;
+}
+.footer {
+	text-align: center;
+	font-size: 14px;
+	color: #5b5b5b;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+li {
+	flex-basis: calc(25% - 20px);
+	margin: 10px;
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 10px;
+	transition: filter 0.5s;
+}
+
+@media screen and (max-width: 767px) {
+	li {
+		flex-basis: calc(100% - 20px);
+	}
+	.sub-title {
+		margin-bottom: 20px;
+		font-size: 14px;
+	}	
+	.content {
+		height: 980px;
+		font-size: 16px;
+		margin-left: 4px;
+		margin-right: 4px;
+	}
+	.links {
+		margin-left: 4px;
+		margin-right: 4px;
+	}
+}
