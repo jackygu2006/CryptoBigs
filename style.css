@@ -3,28 +3,34 @@
 	src: url('https://www.cryptobigs.com/fonts/dogicapixel.ttf');
 }
 body {
-	background-color: black;
-	color: green;
+	color: rgb(0, 193, 0);
 	font-size: 18px;
-	font-family: monospace, 'Dogicapixel';
-	line-height: 1.5;
+	font-family: 'Dogicapixel', monospace;
 	padding: 20px;
+
+	background: #000000;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(135deg, #161616, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(135deg, #161616, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .header-bar {
 	width: 100%;
 	text-align: center;
 }
 .content {
-	height: 480px;
-	font-size: 18px;
+	/* height: 500px; */
+	font-size: 14px;
+	line-height: 32px;
 	margin-left: 80px;
 	margin-right: 80px;
+	min-height: 500px;
+	max-height: 600px;
+	overflow-y: auto;
 }
 .logo {
 	width: 100px;
 	height: 100px;
 	border-radius: 50%;
-	margin-bottom: 6px;
+	margin-bottom: 14px;
 }
 .sub-title {
 	margin-bottom: 20px;
@@ -41,10 +47,11 @@ body {
 .links {
 	margin-left: 80px;
 	margin-right: 80px;
+	margin-bottom: 30px;
 }
 .footer {
 	text-align: center;
-	font-size: 14px;
+	font-size: 12px;
 	color: #5b5b5b;
 }
 ul {
@@ -78,10 +85,13 @@ img {
 		font-size: 14px;
 	}	
 	.content {
-		height: 980px;
-		font-size: 16px;
+		line-height: 30px;
+		font-size: 14px;
 		margin-left: 4px;
 		margin-right: 4px;
+		min-height: 800px;
+		max-height: 1000px;
+		overflow-y: auto;
 	}
 	.links {
 		margin-left: 4px;

@@ -8,7 +8,8 @@ const text = [
 	'',
 	'We hereby express our highest respect and gratitude to you for all the contributions you have made to human freedom, openness, and technological progress. Your spirit will always be worthy of our learning and following, and continue to promote the progress of technology and society.',
 	'',
-	'- CryptoBigs Team'
+	'- CryptoBigs Team',
+	'........................................................................................................................................................................................................................'
 ];
 
 let i = 0;
@@ -39,11 +40,6 @@ function type() {
 	} else {
 		setTimeout(backspace, speed);
 	}
-	// if (i == text.length && direction == 1) {
-	// 	setTimeout(() => {
-	// 		direction = 0;
-	// 	}, 5000);
-	// }
 }
 
 function backspace() {
