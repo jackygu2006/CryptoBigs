@@ -1,12 +1,12 @@
 @font-face {
-	font-family: Dogicapixel;
+	font-family: 'Dogicapixel';
 	src: url('https://www.cryptobigs.com/fonts/dogicapixel.ttf');
 }
 body {
 	background-color: black;
 	color: green;
 	font-size: 18px;
-	font-family: monospace, Dogicapixel;
+	font-family: monospace, 'Dogicapixel';
 	line-height: 1.5;
 	padding: 20px;
 }
