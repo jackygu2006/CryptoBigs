@@ -22,6 +22,7 @@ body {
 	line-height: 32px;
 	margin-left: 80px;
 	margin-right: 80px;
+	margin-bottom: 10px;
 	min-height: 500px;
 	max-height: 600px;
 	overflow-y: auto;
@@ -93,6 +94,7 @@ img {
 		min-height: 800px;
 		max-height: 1000px;
 		overflow-y: auto;
+		margin-bottom: 10px;
 	}
 	.links {
 		margin-left: 4px;
