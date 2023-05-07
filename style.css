@@ -26,6 +26,14 @@ body {
 	max-height: 600px;
 	overflow-y: auto;
 }
+.nfts_content {
+	font-size: 14px;
+	line-height: 32px;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 30px;
+	overflow-y: auto;
+}
 .urls {
 	font-size: 14px;
 	line-height: 32px;
@@ -80,6 +88,15 @@ li {
 	text-align: center;
 }
 
+.nfts_list {
+	flex-basis: calc(16.65% - 50px);
+	margin: 10px;
+	text-align: center;
+}
+.nft_sample {
+	border-radius: 10%;
+	box-shadow: 0 0 0 1px #2d2d2d;
+}
 img {
 	max-width: 100%;
 	height: auto;
@@ -91,6 +108,9 @@ img {
 	li {
 		flex-basis: calc(100% - 20px);
 	}
+	.nfts_list {
+		flex-basis: calc(50% - 20px);
+	}	
 	.sub-title {
 		margin-bottom: 20px;
 		font-size: 14px;
@@ -104,6 +124,13 @@ img {
 		max-height: 1000px;
 		overflow-y: auto;
 		margin-bottom: 10px;
+	}
+	.nfts_content {
+		line-height: 32px;
+		margin-left: 2px;
+		margin-right: 2px;
+		margin-bottom: 80px;
+		overflow-y: auto;
 	}
 	.urls {
 		line-height: 25px;
