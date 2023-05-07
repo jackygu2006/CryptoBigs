@@ -1,5 +1,5 @@
 const userLang = navigator.language; 
-// console.log(userLang);
+console.log(userLang);
 
 const speed = 30;
 let text = [
@@ -19,7 +19,7 @@ let text = [
 	'........................................................................................................................................................................................................................'
 ];
 
-if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
+if(userLang.includes('zh-TW') || userLang.includes('zh-HK') || userLang.includes('zh')) {
 	text = [
 		'致敬計算機先驅和密碼朋克，感謝你們為人類自由和發展做出的巨大貢獻：',
 		'',
