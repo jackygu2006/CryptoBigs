@@ -11,6 +11,10 @@ let text = [
 	'',
 	'We hereby express our highest respect and gratitude to you for all the contributions you have made to human freedom, openness, and technological progress. Your spirit will always be worthy of our learning and following, and continue to promote the progress of technology and society.',
 	'',
+	`We have inscribed bigs' names of compute science and crypto space as NFTs on bitcoin network. `,
+	'',
+	`May the crypto bigs be with you.`,
+	'',
 	'- CryptoBigs Team',
 	'........................................................................................................................................................................................................................'
 ];
@@ -25,6 +29,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'',
 		'我們在此向你們表達最高的敬意和感激之情，感謝你們為人類的自由、開放和科技進步所做出的所有貢獻。你們的精神將永遠值得我們學習和追隨，並繼續推動技術和社會的進步。',
 		'',
+		`我們已將計算機科學和加密領域的大佬名字刻成 NFT 並保存在比特幣網絡上。`,
+		'',
+		`願加密大佬與你同在！`,
+		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
 	];
@@ -37,6 +45,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'你们的远见和勇气让我们拥有了去中心化的技术和货币系统，使我们能够掌控自己的资产和身份。你们的创新思维和创造精神使我们能够更好地利用技术来建设一个更开放、更自由的社会。',
 		'',
 		'我们在此向你们表达最高的敬意和感激之情，感谢你们为人类的自由、开放和科技进步所做出的所有贡献。你们的精神将永远值得我们学习和追随，并继续推动技术和社会的进步。',
+		'',
+		`我们已将计算机科学和加密领域的大佬名字刻成 NFT 并保存在比特币网络上。`,
+		'',
+		`愿加密大佬与你同在！`,
 		'',
 		'- CryptoBigs',
 		'........................................................................................................................................................................................................................'
@@ -51,6 +63,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'',
 		`Nous exprimons par la présente notre plus grand respect et notre gratitude pour toutes les contributions que vous avez apportées à la liberté humaine, à l'ouverture et au progrès technologique. Votre esprit sera toujours digne de notre apprentissage et de notre suivi, et continuera à promouvoir le progrès de la technologie et de la société.`,
 		'',
+		`Nous avons inscrit les noms des grands noms de l'informatique et de l'espace crypté en tant que NFT sur le réseau Bitcoin.`,
+		'',
+		`Que les grands noms de la cryptographie soient avec vous.`,
+		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
 	];	
@@ -63,6 +79,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'あなた方の先見性と勇気によって、分散型技術と通貨システムを持つことができ、自分たちの財産とアイデンティティをコントロールすることができるようになりました。あなた方の革新的な思考と創造的な精神によって、技術をより良く活用して、よりオープンで自由な社会を築くことができました。',
 		'',
 		'ここに、人類の自由、オープンさ、技術的進歩に対してあなた方が果たしてきたすべての貢献に対して、最高の敬意と感謝を表明いたします。あなた方の精神は常に私たちの学びと追随に値するものであり、技術と社会の進歩を促進し続けることでしょう。',
+		'',
+		`私たちは、コンピュータサイエンスと暗号化スペースの偉人たちの名前をNFTとして、ビットコインネットワークに刻み込みました。`,
+		'',
+		`加密の大物たちがあなたと共にありますように。`,
 		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
@@ -77,6 +97,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'',
 		'Por la presente, expresamos nuestro más alto respeto y gratitud por todas las contribuciones que han hecho a la libertad humana, la apertura y el progreso tecnológico. Su espíritu siempre será digno de nuestro aprendizaje y seguimiento, y continuará promoviendo el progreso de la tecnología y la sociedad.',
 		'',
+		`Hemos inscrito los nombres de los grandes de la ciencia informática y el espacio cripto como NFT en la red de Bitcoin.`,
+		'',
+		`Que los grandes de las criptomonedas estén contigo.`,
+		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
 	];
@@ -89,6 +113,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'여러분의 선견지명과 용기로 우리는 분산 기술과 화폐 시스템을 갖게 되었고, 이는 우리 자신의 재산과 신원을 통제할 수 있게 해주었습니다. 여러분의 혁신적인 사고와 창의적인 정신은 우리가 기술을 더욱 잘 활용하여 더욱 개방적이고 자유로운 사회를 구축할 수 있도록 해주었습니다.',
 		'',
 		'이 자리를 빌어 여러분이 인간의 자유, 개방성, 기술적 진보를 위해 이룬 모든 공헌에 대한 최고의 존경과 감사를 표합니다. 여러분의 영혼은 항상 우리의 배움과 추종에 가치 있을 뿐만 아니라, 기술과 사회의 진보를 계속 촉진할 것입니다.',
+		'',
+		`우리는 컴퓨터 과학과 암호화 공간의 대책들의 이름을 NFT로 비트코인 네트워크에 새겼습니다.`,
+		'',
+		`크립토 대책들이 항상 당신과 함께하기를 바랍니다.`,
 		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
@@ -103,6 +131,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'',
 		'Por meio desta, expressamos nosso mais alto respeito e gratidão a vocês por todas as contribuições que fizeram para a liberdade humana, abertura e progresso tecnológico. Seu espírito sempre será digno de nossa aprendizagem e seguimento, e continuará a promover o progresso da tecnologia e da sociedade.',
 		'',
+		`Inscrimos os nomes dos grandes nomes da ciência da computação e do espaço cripto como NFTs na rede Bitcoin.`,
+		'',
+		`Que os grandes do mundo das criptomoedas estejam convosco.`,
+		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
 	];
@@ -115,6 +147,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'Ваше предвидение и мужество позволили нам иметь децентрализованные технологии и денежные системы, позволяющие нам контролировать нашу собственность и идентичность. Ваше инновационное мышление и творческий дух позволяют нам лучше использовать технологии для построения более открытого и свободного общества.',
 		'',
 		'Мы выражаем вам наше высочайшее уважение и благодарность за все, что вы сделали для свободы, открытости и технологического прогресса человечества. Ваш дух всегда будет достоин нашего обучения и следования, и будет продолжать способствовать прогрессу технологий и общества.',
+		'',
+		`Мы вписали имена великих деятелей в области компьютерных наук и криптовалюты как NFT на сети биткоина.`,
+		'',
+		`Пусть крипто-большие будут с вами.`,
 		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
@@ -130,6 +166,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'',
 		`Ми висловлюємо вам наш найвищий шанобливий та вдячний настрій за всі внески, які ви зробили для свободи, відкритості та технологічного прогресу людства. Ваш дух завжди буде вартий нашого навчання та наслідування та продовжуватиме сприяти прогресу технологій та суспільства.`,
 		'',
+		`Ми вписали імена великих діячів у галузі комп'ютерних наук та криптовалюти як NFT на мережі біткоїну.`,
+		'',
+		`Нехай великі діячі криптовалюти будуть з вами.`,
+		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
 	];
@@ -144,6 +184,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'',
 		'เราขอแสดงความเคารพและขอบคุณอย่างสูงสุดให้กับท่านสำหรับการมีส่วนช่วยสร้างเสรีภาพ ความเปิดเผยและความก้าวหน้าทางเทคโนโลยีสำหรับมนุษยชาติ จิตวิญญาณของท่านจะเป็นค่ายธรรมสำหรับเราในการเรียนรู้และติดตาม และยังส่งเสริมความก้าวหน้าของเทคโนโลยีและสังคมต่อไป',
 		'',
+		`เราได้เขียนชื่อของนักคอมพิวเตอร์ไซแนส์และผู้เชี่ยวชาญด้านสกุลเงินดิจิทัลเป็น NFT บนเครือข่ายบิตคอยน์`,
+		'',
+		`ขอให้คนใหญ่ในวงการคริปโตอยู่กับคุณเสมอ`,
+		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
 	];
@@ -157,6 +201,10 @@ if(userLang.includes('zh-TW') || userLang.includes('zh-HK')) {
 		'Tầm nhìn và sự dũng cảm của bạn đã giúp chúng tôi có được các công nghệ và hệ thống tiền tệ phi tập trung, cho phép chúng tôi kiểm soát tài sản và danh tính của chính mình. Tư duy sáng tạo và tinh thần sáng tạo của bạn đã giúp chúng tôi tận dụng công nghệ tốt hơn để xây dựng một xã hội mở và tự do hơn.',
 		'',
 		'Chúng tôi xin thể hiện sự tôn trọng và biết ơn cao nhất đối với những đóng góp mà quý vị đã đưa ra cho sự tự do, sự mở cửa và tiến bộ về công nghệ của con người. Tinh thần của quý vị sẽ luôn đáng để chúng tôi học hỏi và theo đuổi, và tiếp tục thúc đẩy tiến bộ của công nghệ và xã hội.',
+		'',
+		`Chúng tôi đã khắc tên của các nhân vật lớn trong lĩnh vực khoa học máy tính và tiền điện tử thành NFT trên mạng lưới bitcoin.`,
+		'',
+		`Hy vọng những nhân vật lớn trong lĩnh vực tiền điện tử sẽ ở bên bạn.`,
 		'',
 		'- CryptoBigs Team',
 		'........................................................................................................................................................................................................................'
